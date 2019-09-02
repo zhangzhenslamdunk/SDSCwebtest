@@ -6,3 +6,41 @@ https://www.dropbox.com/s/ot3llu7jmzmp74i/SDSC_UnsupervisedDL_Feb2019.zip?dl=0
 
 Anaconda
 https://www.dropbox.com/s/dp2l1uxgzcyr8vo/Anaconda3-5.2.0-Windows-x86_64.exe?dl=0
+
+Libraries
+from PIL import Image
+import os
+import numpy as np
+import tensorflow as tf
+import random
+import time
+import scipy.io
+import scipy.misc
+import tensorlayer as tl
+import pickle 
+import nltk
+from nltk import word_tokenize
+import tkinter as tk
+from tensorlayer.layers import *
+from tkinter import filedialog
+from PIL import Image, ImageFilter
+import ctypes
+import skimage.io
+import skimage.transform
+import matplotlib.pyplot as plt
+import matplotlib.gridspec as gridspec
+import warnings
+import shutil
+import imageio
+import itertools
+import pandas as pd
+import chainer
+import chainer.functions as F
+import chainer.links as L
+from chainer import serializers
+import gym
+
+
+
+
+
