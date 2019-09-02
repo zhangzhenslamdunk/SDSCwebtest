@@ -1,5 +1,8 @@
+Supervised DL
 https://www.dropbox.com/sh/1pipfmok0d9w800/AABhKEoLG0R0PPiWgg2atDw4a?dl=0
 
+Unsupervised DL
 https://www.dropbox.com/s/ot3llu7jmzmp74i/SDSC_UnsupervisedDL_Feb2019.zip?dl=0
 
+Anaconda
 https://www.dropbox.com/s/dp2l1uxgzcyr8vo/Anaconda3-5.2.0-Windows-x86_64.exe?dl=0
